@@ -1,4 +1,7 @@
 # SSH Security Monitoring and Brute-Force Detection Using Splunk
+## Dashboard Preview
+
+![SSH SOC Dashboard](dashboard-overview.png)
 
 ## Project Overview
 
